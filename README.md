@@ -1,6 +1,6 @@
 # EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
 ### Name : Shyam Kumar E
-### Roll no : 212223230124
+### Roll no : 212223230207
 ### Date of experiment : 23.09.24
 
 ## Aim: 
